@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+#welcome{
+    background-color: aquamarine;
+    font-family: cursive;
+}
+#code{
+    background-color: greenyellow;
+}
+#Video{
+    background-color: orangered;
+}
